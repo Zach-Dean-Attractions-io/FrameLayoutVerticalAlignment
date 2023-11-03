@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         findViewById<MyFrameLayout>(R.id.frame_layout_1).name = "FrameLayout1"
         findViewById<MyFrameLayout>(R.id.frame_layout_2).name = "FrameLayout2"
         findViewById<MyFrameLayout>(R.id.frame_layout_3).name = "FrameLayout3"
+        findViewById<MyFrameLayout>(R.id.frame_layout_4).name = "FrameLayout4"
     }
 }
